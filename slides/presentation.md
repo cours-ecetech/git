@@ -24,7 +24,7 @@
 ----
 
 ### Distribué
-<img src="images/distributed.png" width="60%" style="background:none; border:none; box-shadow:none;"/>
+<img src="images/distributed.png" width="50%" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 
